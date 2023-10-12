@@ -6,7 +6,7 @@
 public class Exercice1 {
 
     public static void main(String[] args) {
-        // Déclaration de la variable str
+        // Declaration de la variable str
         String str;
 
         // Lecture de la chaîne de caractères en ligne de commande
